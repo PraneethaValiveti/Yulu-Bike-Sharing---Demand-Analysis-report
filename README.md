@@ -6,7 +6,7 @@ Yulu is experiencing a decline in revenue and seeks to identify the key factors 
 
 Yulu, India's leading micro-mobility service provider, has experienced a decline in revenue. The company wants to understand the factors influencing demand for shared electric cycles to improve utilization and increase revenue.
 
-This project analyzes demand patterns using Exploratory Data Analysis (EDA) and Hypothesis Testing.
+This project analyzes demand patterns using Exploratory Data Analysis (EDA) and Hypothesis Testing
 
 ---
 
